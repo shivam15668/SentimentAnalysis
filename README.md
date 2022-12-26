@@ -12,7 +12,7 @@ Then using  Pattern for further analysis .
 Pattern is also a very useful NLP and text processing library in Python. Pattern has functions to perform sentiment analysis of a text. The good part of pattern is that it is open source. Pattern has the function which can understand the opinions and sentiment of a text which has been put to use in the code .
 Using Seaborn and Matplotlib for various plots to understand our result .
 Also , at last I have used tokens  to understand the overall opinions and ideas in the text  by analyzing the word frequency and making a word cloud  as  they are great ways to visualize the sentiment expressed by an article or a blog.
-Then , we have remove stopwords to make our news data more concise and to help in more accurate plotting of sentiments .
+Then , removing stopwords to make our news data more concise and to help in more accurate plotting of sentiments .
 
 
 Also , I have initially used a news page for online blog of Mundoalbiceleste as this 3rd week of december was full of fifa world cup .
