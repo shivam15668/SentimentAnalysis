@@ -15,5 +15,4 @@ Also , at last I have used tokens  to understand the overall opinions and ideas 
 Then , removing stopwords to make our news data more concise and to help in more accurate plotting of sentiments .
 
 
-Also , I have initially used a news page for online blog of Mundoalbiceleste as this 3rd week of december was full of fifa world cup .
 On a more serious note , this technique for sentiment analysis can be implied on any important financial or product reviews or likewise articles . 
